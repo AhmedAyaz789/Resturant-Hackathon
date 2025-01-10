@@ -114,10 +114,10 @@ const page = () => {
             pug VHS try-hard.
           </p>
           <div className='flex gap-2 justify-center text-xl text-blackkk mt-1'>
-                <a href="https://pk.linkedin.com/in/ghaniya-khan-138919308"> <FaLinkedin /></a>
-                <a href="https://github.com/Ghaniya08"><IoLogoGithub  /></a>
-                <a href="https://instagram.com/ghaniya08">< FaInstagram/></a>
-                <a href="https://www.facebook.com/profile.php?id=61554662968933&mibextid=ZbWKwL"><FaFacebook /></a></div>
+                <a href="#"> <FaLinkedin /></a>
+                <a href="#"><IoLogoGithub  /></a>
+                <a href="#">< FaInstagram/></a>
+                <a href="#"><FaFacebook /></a></div>
         </div>
       </div>
     </div>
