@@ -12,8 +12,8 @@ const Hero = () => {
         <div className='lg:w-[108px] border-[1px] rotate-90 text-whitetext lg:block hidden'></div>
        <div className='text-[] lg:ml-[45px] flex-col justify-between flex gap-[20px] '>
        <a href="">< FaFacebookF className='text-whitetext' /></a>
-        <FaTwitter className='text-bordercoloryello '/>
-        <FaPinterestP className='text-whitetext'/>
+        <a><FaTwitter className='text-bordercoloryello '/></a>
+        <a><FaPinterestP className='text-whitetext'/></a>
        </div>
         <div className='w-[108px] border-[1px] lg:block hidden rotate-90 text-whitetext'></div>
       </div>
