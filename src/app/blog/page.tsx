@@ -337,10 +337,10 @@ const page = () => {
         <div className="border-[1px] border-gray-400 mt-10 px-[22px] py-4 max-w-[400px] mx-auto">
         <h1 className='text-2xl font-bold'>Follow us</h1>
         <div className='flex gap-4 justify-center text-xl text-blackkk mt-1'>
-                <a href="https://pk.linkedin.com/in/ghaniya-khan-138919308"> <FaLinkedin /></a>
-                <a href="https://github.com/Ghaniya08"><IoLogoGithub  /></a>
-                <a href="https://instagram.com/ghaniya08">< FaInstagram/></a>
-                <a href="https://www.facebook.com/profile.php?id=61554662968933&mibextid=ZbWKwL"><FaFacebook /></a>
+                <a href="#"> <FaLinkedin /></a>
+                <a href="#"><IoLogoGithub  /></a>
+                <a href="#">< FaInstagram/></a>
+                <a href="#"><FaFacebook /></a>
         </div>
 
         </div>
